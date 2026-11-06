@@ -1,0 +1,8 @@
+{
+  "versionCode": 8,
+  "versionName": "1.0.8",
+  "url": "https://raw.githubusercontent.com/Fluffytigerclaw/youtube-sim-updates/main/YouTube-Sim.apk?v=8",
+  "size": 3766713,
+  "sha256": "723366c0f7660cef81bc0cfb40a100ef84d949108e4070867e36eb1fb470dd4f",
+  "notes": "AI works with Google AI Studio keys: free-tier rate limit handling, smoother AI chat"
+}
